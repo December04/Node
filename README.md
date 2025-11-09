@@ -1,4 +1,4 @@
-<Node.js 저장소>
+Node.js 저장소
 
 1. JavaScript 기초 문법 정리
 
